@@ -10,3 +10,6 @@ This project focuses on the development of a recommendation system for STEAM, a 
 ## Conclusion
 
 I'm glad to have made this project possible, navigating through processes like ETL and EDA, understanding and applying concepts from Machine Learning, and solving real-world problems!
+
+
+<img src="Image/steam image.jpg" alt="Steam_Image">
